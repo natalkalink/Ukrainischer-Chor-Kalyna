@@ -28,8 +28,3 @@ In this project, I bridged the gap between design and engineering to solve speci
 - Methodology: BEM (Block Element Modifier) for clean, maintainable CSS.
 - Optimization: WebP image compression, responsive images (srcset), and cross-browser testing.
 - Tools: Git/GitHub, VS Code.
-
- ### Mobile vs. Desktop Comparison
-*The website is fully responsive and optimized for all screen sizes.*
-
-![Responsive Design Showcase](img/chor-kalyna.com_ (1).png)

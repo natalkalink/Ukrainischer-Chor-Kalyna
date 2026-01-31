@@ -9,8 +9,8 @@ This is a comprehensive, multi-page, responsive website built for a professional
 ###  🎨 Visual Identity & Design Philosophy
 
 <p align="center"> 
-  <img src="img/hero-preview.png" alt="Choir Performance" width="49%"> 
-  <img src="img/hero-preview-1.png" alt="Choir in Traditional Suits" width="49%"> 
+  <img src="img/hero-preview.png" alt="Choir Performance" width="48%"> 
+  <img src="img/hero-preview-1.png" alt="Choir in Traditional Suits" width="48%"> 
 </p>
 <p align="center">
   <i><b>Note:</b> I implemented CSS overlays on the slider images to ensure typography remains legible and accessible on any background.</i>
@@ -34,12 +34,23 @@ In this project, I bridged the gap between design and engineering to solve speci
 <p align="center">
   <img src="img/cta-section.png" alt="Conversion Elements" width="100%">
 </p>
+<p align="center">
+  <i> Integrated "Buy Me a Coffee" for micro-donations and a professional form for long-term partners.</i>
+</p>
+
+<p align="center"> 
+  <img src="img/sabscribe-de.png" alt="sabscribe" width="48%"> 
+  <img src="img/sabscribe-ua.png" alt="sabscribe" width="48%"> 
+</p>
+<p align="center">
+  <i> A localized newsletter subscription form to build a community around the ensemble.</i>
+</p>
 
 - Content Architecture: Developed a scalable multi-page structure, including specialized layouts for articles, a custom 404 page, and a dynamic media gallery.
 
 <p align="center"> 
-  <img src="img/page-404-de.png" alt="Custom 404" width="49%"> 
-  <img src="img/page-404-ua.png" alt="Custom 404" width="49%"> 
+  <img src="img/page-404-de.png" alt="Custom 404" width="48%"> 
+  <img src="img/page-404-ua.png" alt="Custom 404" width="48%"> 
 </p>
 
 - Modern Web Standards: Implemented semantic HTML5 and SEO best practices (meta tags, favicon) to ensure the site is discoverable and accessible.

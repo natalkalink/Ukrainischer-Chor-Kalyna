@@ -39,8 +39,8 @@ In this project, I bridged the gap between design and engineering to solve speci
 </p>
 
 <p align="center"> 
-  <img src="img/sabscribe-de.png" alt="sabscribe" width="48%"> 
-  <img src="img/sabscribe-ua.png" alt="sabscribe" width="48%"> 
+  <img src="img/subscribe-de.png" alt="subscribe" width="48%"> 
+  <img src="img/subscribe-ua.png" alt="subscribe" width="48%"> 
 </p>
 <p align="center">
   <i> A localized newsletter subscription form to build a community around the ensemble.</i>

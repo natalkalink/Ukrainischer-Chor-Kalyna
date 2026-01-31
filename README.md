@@ -30,6 +30,11 @@ This is a comprehensive, multi-page, responsive website built for a professional
 In this project, I bridged the gap between design and engineering to solve specific business needs:
 - Brand Identity: Without a pre-existing brand book, I selected a font pairing and color palette that reflects the academic yet creative nature of the ensemble.
 - User Journey: I designed the page structure with a focus on conversion, ensuring that CTAs (Call-to-Action) for sponsorships and subscriptions are placed logically within the user flow.
+
+<p align="center">
+  <img src="img/cta-section.png" alt="Conversion Elements" width="100%">
+</p>
+
 - Content Architecture: Developed a scalable multi-page structure, including specialized layouts for articles, a custom 404 page, and a dynamic media gallery.
 
 <p align="center"> 

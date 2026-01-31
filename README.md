@@ -8,6 +8,14 @@
   <img src="img/hero-preview.png" alt="Chor Kalyna Website Preview" width="100%">
 </p>
 
+
+###  🎨 Visual Identity & Design Philosophy
+<p align="center"> 
+  <img src="img/hero-preview.png" alt="Choir Performance" width="49%"> 
+  <img src="img/hero-preview-1.png" alt="Choir in Traditional Suits" width="49%"> 
+</p>
+
+
 This is a comprehensive, multi-page, responsive website built for a professional choir. I acted as the sole developer and designer, taking the project from initial concept to a fully optimized production-ready site. Since the project lacked a dedicated designer, I was responsible for the entire visual language and user experience.
 
 ### 🚀 Key Features

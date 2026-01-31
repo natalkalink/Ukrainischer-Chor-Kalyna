@@ -31,6 +31,12 @@ In this project, I bridged the gap between design and engineering to solve speci
 - Brand Identity: Without a pre-existing brand book, I selected a font pairing and color palette that reflects the academic yet creative nature of the ensemble.
 - User Journey: I designed the page structure with a focus on conversion, ensuring that CTAs (Call-to-Action) for sponsorships and subscriptions are placed logically within the user flow.
 - Content Architecture: Developed a scalable multi-page structure, including specialized layouts for articles, a custom 404 page, and a dynamic media gallery.
+
+<p align="center"> 
+  <img src="img/page-404-de.png" alt="Custom 404" width="49%"> 
+  <img src="img/page-404-de.png" alt="Custom 404" width="49%"> 
+</p>
+
 - Modern Web Standards: Implemented semantic HTML5 and SEO best practices (meta tags, favicon) to ensure the site is discoverable and accessible.
 
 ### 🛠 Tech Stack

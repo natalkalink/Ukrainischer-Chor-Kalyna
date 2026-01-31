@@ -34,7 +34,7 @@ In this project, I bridged the gap between design and engineering to solve speci
 
 <p align="center"> 
   <img src="img/page-404-de.png" alt="Custom 404" width="49%"> 
-  <img src="img/page-404-de.png" alt="Custom 404" width="49%"> 
+  <img src="img/page-404-ua.png" alt="Custom 404" width="49%"> 
 </p>
 
 - Modern Web Standards: Implemented semantic HTML5 and SEO best practices (meta tags, favicon) to ensure the site is discoverable and accessible.
